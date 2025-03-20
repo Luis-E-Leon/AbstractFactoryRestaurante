@@ -6,7 +6,7 @@ package UD.RestauranteEjercicio;
 
 /**
  *
- * @author USUARIO
+ * @author Luis Siatama
  */
 public class Restaurante {
 
